@@ -1,5 +1,6 @@
 ![python](https://img.shields.io/badge/python%20-3.7.1-brightgreen.svg) ![tensorflow](https://img.shields.io/badge/tensorflow-2.0.0--alpha0-orange.svg) ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
+# WORK IN PROGRESS 
+Question Answering on COVID-19: https://discord.gg/qXZajSk
 # Doc Product: Medical Q&A with Deep Language Models
 
 Download trained models and embedding file [here](https://1drv.ms/u/s!An_n1-LB8-2dgoAYrXYnnBSA4d5dsg?e=i3mnFH).
